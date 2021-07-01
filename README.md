@@ -4,11 +4,11 @@ A Content-based PubSub middleware over IPFS content routing
 - Pedro Agostinho | Master Thesis
 - College: [Universidade de Lisboa, Instituto Superior Técnico](https://tecnico.ulisboa.pt)
 - Advisors: 
-  - Luís Veiga
-  - David Dias
+  - [Luís Veiga](https://www.gsd.inesc-id.pt/~lveiga/)
+  - [David Dias](https://research.protocol.ai/authors/david-dias/)
 
 ## Abstract
-The InterPlanetary File System (IPFS) is a hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. One of the most efficient and effective ways to distribute information is through the use of notifications or other methods which involve a producer of content (publisher) that shares content with other interested parts (subscribers). Currently, IPFS has a simple working implementation of a pub/sub system under an experimental flag. This implementation relies on a simple network flood and as such is quite inefficient and costly. The goal for this work is to develop a content-based pub/sub system (with subscriptions based on predicates about event content) to disseminate information on top of
+The InterPlanetary File System (IPFS) is a hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. One of the most efficient and effective ways to distribute information is through the use of notifications or other methods which involve a producer of content (publisher) that shares content with other interested parts (subscribers). Currently, IPFS has a simple working implementation of a pub/sub system under an experimental flag. This implementation relies on a simple network flood and as such is quite inefficient and costly. The goal for this work is to develop a content-based pub/sub system (with subscriptions based on predicates about event content) to disseminate information on top of
 IPFS, in an efficient and decentralized way.
 
 ## System Overview
@@ -24,19 +24,19 @@ This system tries to implement two content-based pubsub protocols over IPFS. Our
 
 ## Project Calendar
 - July 
-- - Scale up evaluation 
-- - Last fixes and optimizations
-- - Writing thesis
+  - Scale up evaluation 
+  - Last fixes and optimizations
+  - Writing thesis
 
 - August 
-- - Writing thesis
+  - Writing thesis
 
 - September
-- - Writing thesis
+  - Writing thesis
 
 - October
-- - Deliver thesis
-- - Prepare presentation
+  - Deliver thesis
+  - Prepare presentation
 
 - November
-- - Defend thesis
+  - Defend thesis
