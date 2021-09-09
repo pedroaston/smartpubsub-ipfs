@@ -23,18 +23,13 @@ This system tries to implement two content-based pubsub protocols over IPFS. Our
 [Test Plan](https://github.com/pedroaston/contentps-test) - repo that contains all test plans used in testground to evaluate the pubsub
 
 ## Project Calendar
-- July 
-  - Scale up evaluation 
-  - Last fixes and optimizations
-  - Writing thesis
-
-- August 
-  - Writing thesis
-
 - September
-  - Writing thesis
+  - Scale up evaluation
+  - Finish evaluation section of thesis
+  - Write the rest of Document (Conclusion, Future Work, ...)
 
 - October
+  - Final Revisions
   - Deliver thesis
   - Prepare presentation
 
